@@ -1,0 +1,27 @@
+﻿  源.cpp
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\HashTable2_0.h(115,26): warning C4101: “k”: 未引用的局部变量
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\HashTable2_0.h(113): message : 在编译 类 模板 成员函数“bool HashTable<int,int>::Insert(const E &)”时
+          with
+          [
+              E=int
+          ]
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\源.cpp(9): message : 查看对正在编译的函数 模板 实例化“bool HashTable<int,int>::Insert(const E &)”的引用
+          with
+          [
+              E=int
+          ]
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\源.cpp(5): message : 查看对正在编译的 类 模板 实例化“HashTable<int,int>”的引用
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\HashTable2_0.h(52,22): warning C4101: “j”: 未引用的局部变量
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\HashTable2_0.h(50): message : 在编译 类 模板 成员函数“int HashTable<int,int>::FindPos(const K) const”时
+          with
+          [
+              K=int
+          ]
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\HashTable2_0.h(115): message : 查看对正在编译的函数 模板 实例化“int HashTable<int,int>::FindPos(const K) const”的引用
+          with
+          [
+              K=int
+          ]
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\HashTable2_0.h(40): message : 在编译 类 模板 成员函数“HashTable<int,int>::HashTable(const int,int)”时
+C:\Users\86136\source\repos\SetAndDictionary\HashTable2.0\源.cpp(5): message : 查看对正在编译的函数 模板 实例化“HashTable<int,int>::HashTable(const int,int)”的引用
+  HashTable2.0.vcxproj -> C:\Users\86136\source\repos\SetAndDictionary\Debug\HashTable2.0.exe
