@@ -1,3 +1,0 @@
-﻿  源.cpp
-C:\Users\86136\Desktop\课程资料\数据结构\courses\StackAndQueue\Deque\源.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Deque.vcxproj -> C:\Users\86136\Desktop\课程资料\数据结构\courses\StackAndQueue\Debug\Deque.exe

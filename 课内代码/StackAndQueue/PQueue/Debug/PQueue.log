@@ -1,4 +1,0 @@
-﻿  源.cpp
-C:\Users\86136\Desktop\课程资料\数据结构\courses\StackAndQueue\PQueue\源.cpp(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-C:\Users\86136\Desktop\课程资料\数据结构\courses\StackAndQueue\PQueue\PQueue.hpp(43): warning C4715: “PQueue<int>::Insert”: 不是所有的控件路径都返回值
-  PQueue.vcxproj -> C:\Users\86136\Desktop\课程资料\数据结构\courses\StackAndQueue\Debug\PQueue.exe
